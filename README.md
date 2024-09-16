@@ -1,7 +1,1 @@
-import demoji
-
-demoji.download_codes()
-
-text="HY GUYS There will be a secret party this year 😄😀🙂😕☹️😴❓, and get new things 🧒👀👊😸😦🫤😌🥰😍😆😃"
-demoji.findall(text)
-
+I made this project during my training session and this is about to convert emoji to text form.................
